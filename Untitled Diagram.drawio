@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T06:28:40.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ny5qHcDzn5dbWWWGTIKI" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T16:09:29.659Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="T0GHH9ija0GdGHL10Pi7" version="14.1.1" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1188" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,6 +191,44 @@
         </mxCell>
         <mxCell id="yGT4qAdIrESVJ-ZpNesD-87" value="&lt;font style=&quot;font-size: 12px&quot;&gt;编写&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="432.47" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IKqrVF0yRIvUw6TBBARi" name="Page-2">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="tTYbHeLvEoQkMkVM4LMx-0" />
+        <mxCell id="tTYbHeLvEoQkMkVM4LMx-1" parent="tTYbHeLvEoQkMkVM4LMx-0" />
+        <mxCell id="pb54G-YY7j7uQYb8oS2L-71" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;opacity=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="tTYbHeLvEoQkMkVM4LMx-1">
+          <mxGeometry x="184.57" y="170" width="480" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pb54G-YY7j7uQYb8oS2L-72" value="经营阵地" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;opacity=50;" vertex="1" parent="tTYbHeLvEoQkMkVM4LMx-1">
+          <mxGeometry x="194.57" y="220" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pb54G-YY7j7uQYb8oS2L-77" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;opacity=50;" vertex="1" parent="tTYbHeLvEoQkMkVM4LMx-1">
+          <mxGeometry x="454.57" y="180" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pb54G-YY7j7uQYb8oS2L-79" value="&lt;font style=&quot;font-size: 18px&quot;&gt;转化工具&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;opacity=50;" vertex="1" parent="tTYbHeLvEoQkMkVM4LMx-1">
+          <mxGeometry x="474.57" y="220" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pb54G-YY7j7uQYb8oS2L-83" value="发送卡券" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;opacity=50;" vertex="1" parent="tTYbHeLvEoQkMkVM4LMx-1">
+          <mxGeometry x="520.7" y="190" width="123.87" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J22sgcQ1q6MWtz2nX4Os-0" value="发送商品" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;opacity=50;" vertex="1" parent="tTYbHeLvEoQkMkVM4LMx-1">
+          <mxGeometry x="520.7" y="250" width="123.87" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J22sgcQ1q6MWtz2nX4Os-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;opacity=50;" vertex="1" parent="tTYbHeLvEoQkMkVM4LMx-1">
+          <mxGeometry x="241.75" y="180" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="J22sgcQ1q6MWtz2nX4Os-2" value="&lt;font style=&quot;font-size: 19px ; line-height: 100%&quot;&gt;内容管理&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;opacity=50;" vertex="1" parent="tTYbHeLvEoQkMkVM4LMx-1">
+          <mxGeometry x="264.44" y="220" width="30" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="J22sgcQ1q6MWtz2nX4Os-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;长图文&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;opacity=50;" vertex="1" parent="tTYbHeLvEoQkMkVM4LMx-1">
+          <mxGeometry x="307.88" y="190" width="123.87" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J22sgcQ1q6MWtz2nX4Os-4" value="短内容" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;opacity=50;" vertex="1" parent="tTYbHeLvEoQkMkVM4LMx-1">
+          <mxGeometry x="307.88" y="250" width="123.87" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
